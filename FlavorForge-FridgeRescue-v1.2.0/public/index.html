@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FlavorForge — FridgeRescue</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <div class="brand">
+        <span class="brand-icon" aria-hidden="true">🍳</span>
+        <div>
+          <h1>FlavorForge</h1>
+          <p class="subtitle">FridgeRescue — Cook dinner from what is already in your fridge</p>
+        </div>
+      </div>
+      <div class="topbar-actions">
+        <button id="demoBtn" class="btn btn-accent" type="button" title="Select Egg, Onion & Bread for a 100% match">
+          ⚡ Demo: Egg, Onion &amp; Bread
+        </button>
+        <span id="dbStatusBadge" class="status-pill" aria-live="polite">Connecting…</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container layout-grid">
+    <!-- Left Column: Pantry / Fridge Selector -->
+    <aside class="panel pantry-panel" aria-label="Fridge Ingredient Selector">
+      <div class="panel-header">
+        <h2>1. Your Fridge &amp; Pantry</h2>
+        <button id="clearBtn" class="btn-link" type="button">Clear all</button>
+      </div>
+      <p class="hint">
+        Assumed staples (<strong>salt, oil, water</strong>) are automatically excluded from missing counts.
+      </p>
+
+      <form id="customIngredientForm" class="custom-form" autocomplete="off">
+        <label for="customInput" class="sr-only">Add custom ingredient</label>
+        <input
+          id="customInput"
+          type="text"
+          maxlength="40"
+          placeholder="Add ingredient (e.g. paneer, oats, tuna)…"
+        />
+        <button type="submit" class="btn btn-primary">Add</button>
+      </form>
+
+      <div id="selectedTray" class="selected-tray" aria-live="polite"></div>
+
+      <div id="categoryContainer" class="categories"></div>
+    </aside>
+
+    <!-- Right Column: Ranked Recipes & Cooking Walkthrough -->
+    <section class="results-panel" aria-label="Ranked Recipes">
+      <div class="toolbar">
+        <div>
+          <h2 id="resultsHeading">2. Ranked Recipes</h2>
+          <p id="resultsSubheading" class="hint">Select ingredients on the left or try the one-tap demo.</p>
+        </div>
+        <div class="filter-group" role="group" aria-label="Recipe filters">
+          <button type="button" class="chip-filter" data-filter="quick" aria-pressed="false">⚡ ≤ 15 min</button>
+          <button type="button" class="chip-filter" data-filter="vegetarian" aria-pressed="false">🌱 Vegetarian</button>
+          <button type="button" class="chip-filter" data-filter="saved" aria-pressed="false">❤️ Saved (<span id="savedCount">0</span>)</button>
+        </div>
+      </div>
+
+      <div id="recipeGrid" class="recipe-grid"></div>
+    </section>
+  </main>
+
+  <!-- Recipe Detail & Kitchen Counter Modal -->
+  <dialog id="recipeModal" class="recipe-modal">
+    <div id="modalContent" class="modal-body"></div>
+  </dialog>
+
+  <script src="/shared/matcher.js"></script>
+  <script src="/app.js"></script>
+</body>
+</html>

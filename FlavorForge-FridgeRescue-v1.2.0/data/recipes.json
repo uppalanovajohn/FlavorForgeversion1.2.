@@ -1,0 +1,1839 @@
+[
+  {
+    "id": 1,
+    "name": "Egg Toast",
+    "emoji": "🍳",
+    "ingredients": [
+      "egg",
+      "onion",
+      "bread",
+      "salt",
+      "oil"
+    ],
+    "quantities": {
+      "egg": 2,
+      "onion": 0.5,
+      "bread": 2,
+      "salt": 0.25,
+      "oil": 1
+    },
+    "units": {
+      "egg": "pcs",
+      "onion": "medium",
+      "bread": "slices",
+      "salt": "tsp",
+      "oil": "tbsp"
+    },
+    "servings": 2,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Crispy golden bread topped with savory spiced onion scrambled eggs — ready in 10 minutes.",
+    "steps": [
+      "Finely dice the onion and whisk together with eggs and a pinch of salt.",
+      "Heat oil in a skillet over medium heat and toast the bread slices until crisp and golden.",
+      "Pour the egg-onion mixture into the pan and cook gently, folding until soft and set.",
+      "Spoon the warm scrambled eggs onto the toasted bread and serve immediately."
+    ],
+    "substitutions": {
+      "egg": "Mashed chickpea batter (besan chilla mix) or crumbled paneer",
+      "onion": "Spring onion, shallots, or a pinch of garlic powder",
+      "bread": "Tortilla wrap, roti, or English muffin"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Tomato Egg Stir-Fry",
+    "emoji": "🍅",
+    "ingredients": [
+      "tomato",
+      "egg",
+      "garlic",
+      "spring onion",
+      "salt",
+      "oil"
+    ],
+    "quantities": {
+      "tomato": 2,
+      "egg": 3,
+      "garlic": 2,
+      "spring onion": 1,
+      "salt": 0.5,
+      "oil": 1.5
+    },
+    "units": {
+      "tomato": "medium",
+      "egg": "pcs",
+      "garlic": "cloves",
+      "spring onion": "stalk",
+      "salt": "tsp",
+      "oil": "tbsp"
+    },
+    "servings": 2,
+    "time": 12,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Silky scrambled eggs folded into a sweet-savory blistered tomato sauce.",
+    "steps": [
+      "Cut tomatoes into wedges and beat eggs with a pinch of salt.",
+      "Scramble eggs softly in 1 tbsp oil until just set, then transfer to a plate.",
+      "Saute minced garlic and tomato wedges in remaining oil until juicy and saucy.",
+      "Fold eggs back into the tomatoes, garnish with spring onion, and serve warm."
+    ],
+    "substitutions": {
+      "tomato": "Canned diced tomatoes or 2 tbsp tomato paste + splash of water",
+      "egg": "Silken or firm tofu cubes",
+      "garlic": "1/4 tsp garlic powder or sliced onion",
+      "spring onion": "Fresh coriander or chopped regular onion"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Garlic Butter Pasta",
+    "emoji": "🍝",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "butter",
+      "cheese",
+      "chili",
+      "salt",
+      "water"
+    ],
+    "quantities": {
+      "pasta": 200,
+      "garlic": 4,
+      "butter": 2,
+      "cheese": 0.5,
+      "chili": 1,
+      "salt": 1,
+      "water": 1000
+    },
+    "units": {
+      "pasta": "g",
+      "garlic": "cloves",
+      "butter": "tbsp",
+      "cheese": "cup",
+      "chili": "pc",
+      "salt": "tsp",
+      "water": "ml"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Pantry-staple pasta tossed in fragrant golden garlic butter and melted cheese.",
+    "steps": [
+      "Boil pasta in salted water until al dente, reserving 1/2 cup of pasta water.",
+      "Melt butter over low heat and gently sizzle thinly sliced garlic and chopped chili.",
+      "Toss drained pasta into the garlic butter with a splash of reserved pasta water.",
+      "Stir in grated cheese until glossy and creamy, then serve."
+    ],
+    "substitutions": {
+      "pasta": "Instant noodles (discard seasoning packet) or cooked rice",
+      "butter": "Olive oil or vegetable oil",
+      "cheese": "Nutritional yeast or a splash of milk + flour",
+      "chili": "Black pepper or red chili flakes"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Vegetable Fried Rice",
+    "emoji": "🍚",
+    "ingredients": [
+      "rice",
+      "egg",
+      "carrot",
+      "onion",
+      "soy sauce",
+      "garlic",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "rice": 2,
+      "egg": 2,
+      "carrot": 1,
+      "onion": 0.5,
+      "soy sauce": 1.5,
+      "garlic": 2,
+      "oil": 1.5,
+      "salt": 0.25
+    },
+    "units": {
+      "rice": "cups",
+      "egg": "pcs",
+      "carrot": "medium",
+      "onion": "medium",
+      "soy sauce": "tbsp",
+      "garlic": "cloves",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Fast wok-tossed leftover rice with crisp diced vegetables, egg, and umami soy glaze.",
+    "steps": [
+      "Dice carrot, onion, and garlic finely; break up cold leftover rice with your fingers.",
+      "Scramble beaten eggs in hot oil, push to the side, and stir-fry garlic, onion, and carrot for 3 minutes.",
+      "Add rice over high heat and toss for 3–4 minutes until grains toast lightly.",
+      "Drizzle soy sauce around the edges of the pan, toss well, and serve."
+    ],
+    "substitutions": {
+      "rice": "Quinoa, couscous, or chopped leftover chapati",
+      "egg": "Diced tofu, paneer, or extra peas",
+      "carrot": "Bell pepper, peas, or cabbage",
+      "soy sauce": "Pinch of salt + splash of vinegar or Worcestershire sauce"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Cheesy Tomato Grilled Sandwich",
+    "emoji": "🥪",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "tomato",
+      "onion",
+      "butter",
+      "salt"
+    ],
+    "quantities": {
+      "bread": 4,
+      "cheese": 0.75,
+      "tomato": 1,
+      "onion": 0.5,
+      "butter": 1.5,
+      "salt": 0.25
+    },
+    "units": {
+      "bread": "slices",
+      "cheese": "cup",
+      "tomato": "medium",
+      "onion": "small",
+      "butter": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Crisp skillet-toasted sandwich oozing with melted cheese, juicy tomato, and sweet onion.",
+    "steps": [
+      "Slice tomato and onion thinly; butter the outer sides of all bread slices.",
+      "Layer cheese, tomato, a pinch of salt, and onion between two slices of bread.",
+      "Toast in a skillet over medium-low heat for 3 minutes per side until golden and melted.",
+      "Slice diagonally and serve hot."
+    ],
+    "substitutions": {
+      "cheese": "Grated paneer or mashed avocado",
+      "butter": "Mayonnaise or cooking oil",
+      "tomato": "Sliced bell pepper or cucumber",
+      "bread": "Tortilla wrap or burger bun"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Aloo Jeera (Cumin Potatoes)",
+    "emoji": "🥔",
+    "ingredients": [
+      "potato",
+      "cumin",
+      "turmeric",
+      "chili",
+      "coriander",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "potato": 3,
+      "cumin": 1,
+      "turmeric": 0.5,
+      "chili": 1,
+      "coriander": 2,
+      "oil": 1.5,
+      "salt": 0.75
+    },
+    "units": {
+      "potato": "medium",
+      "cumin": "tsp",
+      "turmeric": "tsp",
+      "chili": "pc",
+      "coriander": "tbsp",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 20,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Golden pan-roasted potato cubes tempered with crackling cumin seeds and warm turmeric.",
+    "steps": [
+      "Peel and dice potatoes into bite-sized cubes (parboil 5 minutes for faster cooking).",
+      "Heat oil in a pan and splutter cumin seeds and chopped green chili.",
+      "Add potatoes, turmeric, and salt; toss well and cook covered for 10–12 minutes until tender and crisp-edged.",
+      "Finish with chopped coriander and serve with bread or rice."
+    ],
+    "substitutions": {
+      "potato": "Sweet potato or cauliflower florets",
+      "cumin": "Mustard seeds or carom seeds (ajwain)",
+      "turmeric": "Curry powder or pinch of paprika",
+      "coriander": "Spring onion greens or dried parsley"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Spanish Potato Omelette",
+    "emoji": "🥘",
+    "ingredients": [
+      "egg",
+      "potato",
+      "onion",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "egg": 4,
+      "potato": 2,
+      "onion": 1,
+      "oil": 2,
+      "salt": 0.5
+    },
+    "units": {
+      "egg": "pcs",
+      "potato": "medium",
+      "onion": "medium",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 3,
+    "time": 25,
+    "difficulty": "Medium",
+    "vegetarian": false,
+    "description": "Thick, hearty tortilla española packed with tender pan-cooked potatoes and sweet onions.",
+    "steps": [
+      "Thinly slice peeled potatoes and onion; cook gently in oil over medium-low heat until soft (12 minutes).",
+      "Beat eggs with salt in a bowl and fold in the warm drained potatoes and onions.",
+      "Pour mixture back into the skillet and cook on low heat for 5 minutes until edges set.",
+      "Invert onto a plate, slide back in to brown the other side for 3 minutes, and slice into wedges."
+    ],
+    "substitutions": {
+      "potato": "Zucchini or leftover cooked pasta",
+      "onion": "Leeks or spring onions",
+      "egg": "Chickpea flour batter mixed with water and baking powder"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Quick Chickpea Masala",
+    "emoji": "🍛",
+    "ingredients": [
+      "chickpeas",
+      "tomato",
+      "onion",
+      "garlic",
+      "cumin",
+      "turmeric",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "chickpeas": 1.5,
+      "tomato": 2,
+      "onion": 1,
+      "garlic": 3,
+      "cumin": 1,
+      "turmeric": 0.5,
+      "oil": 1.5,
+      "salt": 0.75
+    },
+    "units": {
+      "chickpeas": "cups",
+      "tomato": "medium",
+      "onion": "medium",
+      "garlic": "cloves",
+      "cumin": "tsp",
+      "turmeric": "tsp",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 3,
+    "time": 20,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Hearty protein-packed chickpeas simmered in a rich spiced onion-tomato gravy.",
+    "steps": [
+      "Saute finely chopped onion and garlic in oil until golden brown.",
+      "Stir in cumin, turmeric, chopped tomatoes, and salt; cook until tomatoes break down into a paste.",
+      "Add drained chickpeas and 1/2 cup water; simmer 10 minutes, mashing a few chickpeas to thicken.",
+      "Serve hot with rice, toast, or flatbread."
+    ],
+    "substitutions": {
+      "chickpeas": "Kidney beans, black beans, or boiled potatoes",
+      "tomato": "Tomato puree or yogurt",
+      "cumin": "Garam masala or curry powder"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Shakshuka Skillet Eggs",
+    "emoji": "🍳",
+    "ingredients": [
+      "egg",
+      "tomato",
+      "onion",
+      "bell pepper",
+      "garlic",
+      "cumin",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "egg": 4,
+      "tomato": 3,
+      "onion": 1,
+      "bell pepper": 1,
+      "garlic": 2,
+      "cumin": 1,
+      "oil": 1.5,
+      "salt": 0.5
+    },
+    "units": {
+      "egg": "pcs",
+      "tomato": "medium",
+      "onion": "medium",
+      "bell pepper": "medium",
+      "garlic": "cloves",
+      "cumin": "tsp",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 20,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Eggs poached directly in a fragrant, smoky spiced tomato and bell pepper sauce.",
+    "steps": [
+      "Saute diced onion, bell pepper, and garlic in oil until softened.",
+      "Add chopped tomatoes, cumin, and salt; simmer 8 minutes until thick and saucy.",
+      "Make four wells in the sauce and crack an egg into each well.",
+      "Cover and cook 5–6 minutes until egg whites set while yolks stay runny."
+    ],
+    "substitutions": {
+      "bell pepper": "Zucchini, spinach, or extra tomato",
+      "egg": "Feta cheese cubes or drained chickpeas",
+      "cumin": "Smoked paprika or oregano"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Classic Dal Tadka",
+    "emoji": "🥣",
+    "ingredients": [
+      "dal",
+      "tomato",
+      "onion",
+      "garlic",
+      "turmeric",
+      "cumin",
+      "oil",
+      "salt",
+      "water"
+    ],
+    "quantities": {
+      "dal": 1,
+      "tomato": 1,
+      "onion": 1,
+      "garlic": 3,
+      "turmeric": 0.5,
+      "cumin": 1,
+      "oil": 1.5,
+      "salt": 0.75,
+      "water": 3
+    },
+    "units": {
+      "dal": "cup",
+      "tomato": "medium",
+      "onion": "small",
+      "garlic": "cloves",
+      "turmeric": "tsp",
+      "cumin": "tsp",
+      "oil": "tbsp",
+      "salt": "tsp",
+      "water": "cups"
+    },
+    "servings": 3,
+    "time": 25,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Comforting yellow lentils simmered with turmeric and finished with sizzling garlic-cumin tempering.",
+    "steps": [
+      "Rinse dal and simmer in water with turmeric and salt for 18 minutes until soft and creamy.",
+      "In a small pan, heat oil and sizzle cumin seeds, sliced garlic, and diced onion until golden.",
+      "Add chopped tomato and cook 3 minutes until soft.",
+      "Pour the sizzling tadka over the cooked dal, stir gently, and serve with rice or bread."
+    ],
+    "substitutions": {
+      "dal": "Canned lentils or split peas",
+      "tomato": "Squeeze of lemon juice at the end",
+      "oil": "Ghee or butter"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Banana Oat Pancakes",
+    "emoji": "🥞",
+    "ingredients": [
+      "banana",
+      "oats",
+      "egg",
+      "milk",
+      "butter",
+      "salt"
+    ],
+    "quantities": {
+      "banana": 2,
+      "oats": 1,
+      "egg": 2,
+      "milk": 0.25,
+      "butter": 1,
+      "salt": 0.125
+    },
+    "units": {
+      "banana": "medium",
+      "oats": "cup",
+      "egg": "pcs",
+      "milk": "cup",
+      "butter": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Naturally sweet 4-ingredient blender or mash-bowl pancakes made from ripe bananas and oats.",
+    "steps": [
+      "Mash ripe bananas smoothly in a bowl (or blend all ingredients together).",
+      "Whisk in eggs, oats, milk, and a tiny pinch of salt; rest batter 3 minutes to thicken.",
+      "Cook small ladlefuls in a lightly buttered pan over medium-low heat for 2 minutes per side.",
+      "Serve warm topped with extra banana slices or honey."
+    ],
+    "substitutions": {
+      "oats": "Whole wheat flour or all-purpose flour",
+      "milk": "Water, yogurt, or almond milk",
+      "egg": "1 tbsp flaxseed meal + 3 tbsp water"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Creamy Spinach & Garlic Pasta",
+    "emoji": "🥬",
+    "ingredients": [
+      "pasta",
+      "spinach",
+      "garlic",
+      "milk",
+      "cheese",
+      "butter",
+      "salt",
+      "water"
+    ],
+    "quantities": {
+      "pasta": 200,
+      "spinach": 2,
+      "garlic": 3,
+      "milk": 0.75,
+      "cheese": 0.5,
+      "butter": 1.5,
+      "salt": 0.75,
+      "water": 1000
+    },
+    "units": {
+      "pasta": "g",
+      "spinach": "cups",
+      "garlic": "cloves",
+      "milk": "cup",
+      "cheese": "cup",
+      "butter": "tbsp",
+      "salt": "tsp",
+      "water": "ml"
+    },
+    "servings": 2,
+    "time": 18,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Velvety one-pan garlic-cheese sauce studded with wilted fresh spinach leaves.",
+    "steps": [
+      "Cook pasta in salted water until al dente and drain.",
+      "Saute minced garlic in butter for 1 minute, then add spinach and wilt for 2 minutes.",
+      "Pour in milk and simmer gently; whisk in grated cheese until smooth.",
+      "Toss cooked pasta in the creamy green sauce and serve immediately."
+    ],
+    "substitutions": {
+      "spinach": "Frozen peas, broccoli florets, or kale",
+      "milk": "Cream, evaporated milk, or starchy pasta water",
+      "cheese": "Cream cheese or paneer"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Bean & Cheese Quesadilla",
+    "emoji": "🌮",
+    "ingredients": [
+      "tortilla",
+      "beans",
+      "cheese",
+      "onion",
+      "tomato",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "tortilla": 2,
+      "beans": 0.75,
+      "cheese": 0.75,
+      "onion": 0.25,
+      "tomato": 0.5,
+      "oil": 1,
+      "salt": 0.25
+    },
+    "units": {
+      "tortilla": "pcs",
+      "beans": "cup",
+      "cheese": "cup",
+      "onion": "medium",
+      "tomato": "medium",
+      "oil": "tsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Crispy toasted tortilla stuffed with smashed seasoned beans, diced veggies, and gooey cheese.",
+    "steps": [
+      "Lightly mash drained beans with a fork and season with a pinch of salt.",
+      "Spread beans, diced onion, diced tomato, and cheese over half of each tortilla and fold over.",
+      "Toast in a lightly oiled skillet over medium heat for 2–3 minutes per side until crisp and melted.",
+      "Cut into wedges and serve."
+    ],
+    "substitutions": {
+      "tortilla": "Chapati, roti, or two slices of bread",
+      "beans": "Chickpeas, corn, or shredded chicken",
+      "cheese": "Grated paneer or sour cream"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Lemon Garlic Herb Chicken",
+    "emoji": "🍗",
+    "ingredients": [
+      "chicken",
+      "garlic",
+      "lemon",
+      "butter",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "chicken": 300,
+      "garlic": 4,
+      "lemon": 1,
+      "butter": 1.5,
+      "oil": 1,
+      "salt": 0.75
+    },
+    "units": {
+      "chicken": "g",
+      "garlic": "cloves",
+      "lemon": "pc",
+      "butter": "tbsp",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 18,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Juicy pan-seared chicken breast glazed in a bright, savory lemon-garlic pan sauce.",
+    "steps": [
+      "Slice chicken into thin cutlets and season both sides with salt.",
+      "Sear in hot oil for 4–5 minutes per side until golden and cooked through.",
+      "Lower heat, add butter and minced garlic for 1 minute, then squeeze in fresh lemon juice.",
+      "Spoon the glossy pan sauce over the chicken and serve."
+    ],
+    "substitutions": {
+      "chicken": "Firm tofu steaks or paneer slices",
+      "lemon": "1 tbsp white vinegar or lime juice",
+      "butter": "Olive oil"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Egg Fried Noodles",
+    "emoji": "🍜",
+    "ingredients": [
+      "pasta",
+      "egg",
+      "cabbage",
+      "carrot",
+      "soy sauce",
+      "garlic",
+      "oil",
+      "salt",
+      "water"
+    ],
+    "quantities": {
+      "pasta": 200,
+      "egg": 2,
+      "cabbage": 1,
+      "carrot": 1,
+      "soy sauce": 1.5,
+      "garlic": 2,
+      "oil": 1.5,
+      "salt": 0.5,
+      "water": 1000
+    },
+    "units": {
+      "pasta": "g",
+      "egg": "pcs",
+      "cabbage": "cup",
+      "carrot": "small",
+      "soy sauce": "tbsp",
+      "garlic": "cloves",
+      "oil": "tbsp",
+      "salt": "tsp",
+      "water": "ml"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Street-style wok-tossed noodles with crunchy shredded cabbage, carrots, egg, and soy sauce.",
+    "steps": [
+      "Boil noodles/spaghetti in salted water until tender, drain, and toss with a drop of oil.",
+      "Scramble eggs in a hot pan, remove, then stir-fry garlic, shredded cabbage, and julienned carrot for 2 minutes.",
+      "Add noodles, cooked eggs, and soy sauce; toss vigorously over high heat for 2 minutes.",
+      "Serve piping hot."
+    ],
+    "substitutions": {
+      "cabbage": "Spinach, bell pepper, or onion",
+      "egg": "Tofu strips or edamame",
+      "soy sauce": "Salt + pinch of sugar + splash of vinegar"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Curd Rice (Thayir Sadam)",
+    "emoji": "🍚",
+    "ingredients": [
+      "rice",
+      "yogurt",
+      "cucumber",
+      "carrot",
+      "cumin",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "rice": 1.5,
+      "yogurt": 1,
+      "cucumber": 0.5,
+      "carrot": 0.5,
+      "cumin": 0.5,
+      "oil": 1,
+      "salt": 0.5
+    },
+    "units": {
+      "rice": "cups",
+      "yogurt": "cup",
+      "cucumber": "medium",
+      "carrot": "medium",
+      "cumin": "tsp",
+      "oil": "tsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Cooling South Indian comfort bowl of mashed soft rice, creamy yogurt, crunchy veggies, and cumin tempering.",
+    "steps": [
+      "Mash warm or room-temperature cooked rice lightly with a spoon.",
+      "Fold in yogurt, salt, finely diced cucumber, and grated carrot until creamy.",
+      "Heat oil in a small spoon or pan, crackle cumin seeds, and pour over the curd rice.",
+      "Stir gently and serve chilled or at room temperature."
+    ],
+    "substitutions": {
+      "cucumber": "Pomegranate seeds or finely diced apple",
+      "cumin": "Mustard seeds",
+      "yogurt": "Sour cream or buttermilk"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Crispy Potato Rosti",
+    "emoji": "🥔",
+    "ingredients": [
+      "potato",
+      "onion",
+      "butter",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "potato": 3,
+      "onion": 0.5,
+      "butter": 1,
+      "oil": 1.5,
+      "salt": 0.5
+    },
+    "units": {
+      "potato": "medium",
+      "onion": "medium",
+      "butter": "tbsp",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 20,
+    "difficulty": "Medium",
+    "vegetarian": true,
+    "description": "Golden, lacy shredded potato hash cake with crisp edges and a tender center.",
+    "steps": [
+      "Grate peeled potatoes and onion; squeeze firmly in a clean towel to remove excess moisture.",
+      "Toss shredded mixture with salt.",
+      "Press evenly into a skillet with hot oil and butter; cook 7 minutes per side until deeply golden and crisp.",
+      "Cut into wedges and serve hot."
+    ],
+    "substitutions": {
+      "butter": "Extra cooking oil",
+      "onion": "Spring onion or garlic powder"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Masala Omelette",
+    "emoji": "🍳",
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "chili",
+      "coriander",
+      "turmeric",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "egg": 3,
+      "onion": 0.5,
+      "tomato": 0.5,
+      "chili": 1,
+      "coriander": 2,
+      "turmeric": 0.25,
+      "oil": 1,
+      "salt": 0.25
+    },
+    "units": {
+      "egg": "pcs",
+      "onion": "small",
+      "tomato": "small",
+      "chili": "pc",
+      "coriander": "tbsp",
+      "turmeric": "tsp",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 1,
+    "time": 8,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Fluffy spiced Indian-style omelette loaded with crunchy onions, tomatoes, green chili, and herbs.",
+    "steps": [
+      "Whisk eggs with turmeric and salt until frothy.",
+      "Stir in finely diced onion, tomato, green chili, and chopped coriander.",
+      "Pour into a hot greased skillet and cook 2 minutes until bottom sets; flip and cook 1 minute more.",
+      "Serve hot with buttered toast."
+    ],
+    "substitutions": {
+      "coriander": "Spring onion or spinach",
+      "chili": "Black pepper",
+      "tomato": "Diced bell pepper"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Garlic & Herb Bruschetta",
+    "emoji": "🥖",
+    "ingredients": [
+      "bread",
+      "tomato",
+      "garlic",
+      "coriander",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "bread": 4,
+      "tomato": 2,
+      "garlic": 2,
+      "coriander": 2,
+      "oil": 1.5,
+      "salt": 0.25
+    },
+    "units": {
+      "bread": "slices",
+      "tomato": "medium",
+      "garlic": "cloves",
+      "coriander": "tbsp",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Crunchy garlic-rubbed toast piled high with fresh marinated diced tomatoes and herbs.",
+    "steps": [
+      "Dice tomatoes finely and toss with chopped herbs, 1 tbsp oil, and salt.",
+      "Toast bread slices until crisp; rub warm toast with a cut clove of raw garlic.",
+      "Spoon the fresh tomato topping generously over each toast and serve immediately."
+    ],
+    "substitutions": {
+      "coriander": "Fresh basil, parsley, or dried oregano",
+      "bread": "Crackers or toasted pita"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Paneer Bhurji (Spiced Scramble)",
+    "emoji": "🧀",
+    "ingredients": [
+      "paneer",
+      "onion",
+      "tomato",
+      "cumin",
+      "turmeric",
+      "chili",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "paneer": 200,
+      "onion": 1,
+      "tomato": 1,
+      "cumin": 0.5,
+      "turmeric": 0.25,
+      "chili": 1,
+      "oil": 1.5,
+      "salt": 0.5
+    },
+    "units": {
+      "paneer": "g",
+      "onion": "medium",
+      "tomato": "medium",
+      "cumin": "tsp",
+      "turmeric": "tsp",
+      "chili": "pc",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Savory crumbled cottage cheese sauteed with spiced onions, tomatoes, and warm turmeric.",
+    "steps": [
+      "Crumble paneer with your fingers into small curds.",
+      "Heat oil, crackle cumin seeds, and saute diced onion and green chili until translucent.",
+      "Add diced tomato, turmeric, and salt; cook 3 minutes until soft.",
+      "Fold in crumbled paneer, toss gently for 2 minutes so it stays moist, and serve with bread or roti."
+    ],
+    "substitutions": {
+      "paneer": "Firm tofu or scrambled eggs",
+      "cumin": "Mustard seeds or garam masala"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Savory Oatmeal Bowl",
+    "emoji": "🥣",
+    "ingredients": [
+      "oats",
+      "egg",
+      "spinach",
+      "soy sauce",
+      "garlic",
+      "oil",
+      "salt",
+      "water"
+    ],
+    "quantities": {
+      "oats": 1,
+      "egg": 1,
+      "spinach": 1,
+      "soy sauce": 1,
+      "garlic": 1,
+      "oil": 1,
+      "salt": 0.25,
+      "water": 2
+    },
+    "units": {
+      "oats": "cup",
+      "egg": "pc",
+      "spinach": "cup",
+      "soy sauce": "tbsp",
+      "garlic": "clove",
+      "oil": "tsp",
+      "salt": "tsp",
+      "water": "cups"
+    },
+    "servings": 1,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Umami-rich congee-style oats topped with a jammy egg, wilted spinach, and soy drizzle.",
+    "steps": [
+      "Simmer oats in salted water for 5 minutes until creamy; stir in spinach during the final minute.",
+      "Fry an egg in a small pan with a drop of oil and sliced garlic until edges are crisp.",
+      "Top the warm oats with the fried egg, garlic chips, and a drizzle of soy sauce."
+    ],
+    "substitutions": {
+      "spinach": "Spring onions or peas",
+      "egg": "Pan-seared tofu or grated cheese"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Classic French Toast",
+    "emoji": "🍞",
+    "ingredients": [
+      "bread",
+      "egg",
+      "milk",
+      "butter",
+      "sugar",
+      "salt"
+    ],
+    "quantities": {
+      "bread": 4,
+      "egg": 2,
+      "milk": 0.25,
+      "butter": 1.5,
+      "sugar": 1,
+      "salt": 0.125
+    },
+    "units": {
+      "bread": "slices",
+      "egg": "pcs",
+      "milk": "cup",
+      "butter": "tbsp",
+      "sugar": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Custardy, golden pan-fried bread slices with crisp caramelized edges.",
+    "steps": [
+      "Whisk eggs, milk, sugar, and a pinch of salt in a shallow dish.",
+      "Dip bread slices briefly on both sides so they absorb custard without getting soggy.",
+      "Cook in a buttered skillet over medium heat for 2–3 minutes per side until golden brown."
+    ],
+    "substitutions": {
+      "milk": "Water + splash of cream or plant milk",
+      "sugar": "Honey or maple syrup",
+      "butter": "Neutral cooking oil"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Tuna & Corn Mayo Melt",
+    "emoji": "🥪",
+    "ingredients": [
+      "bread",
+      "tuna",
+      "corn",
+      "mayonnaise",
+      "cheese",
+      "onion",
+      "salt"
+    ],
+    "quantities": {
+      "bread": 4,
+      "tuna": 1,
+      "corn": 0.33,
+      "mayonnaise": 2,
+      "cheese": 0.5,
+      "onion": 0.25,
+      "salt": 0.125
+    },
+    "units": {
+      "bread": "slices",
+      "tuna": "can",
+      "corn": "cup",
+      "mayonnaise": "tbsp",
+      "cheese": "cup",
+      "onion": "small",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Toasted open-faced or closed sandwich loaded with creamy sweetcorn tuna salad and melted cheese.",
+    "steps": [
+      "Drain canned tuna and mix with sweetcorn, mayonnaise, finely diced onion, and a pinch of salt.",
+      "Pile onto bread slices and top with grated cheese.",
+      "Toast in a covered skillet or broiler for 4 minutes until bread is crisp and cheese bubbles."
+    ],
+    "substitutions": {
+      "tuna": "Smashed chickpeas (for a vegetarian melt)",
+      "mayonnaise": "Thick yogurt + squeeze of lemon",
+      "corn": "Diced celery or bell pepper"
+    }
+  },
+  {
+    "id": 24,
+    "name": "3-Ingredient Peanut Butter Cookies",
+    "emoji": "🍪",
+    "ingredients": [
+      "peanut butter",
+      "sugar",
+      "egg",
+      "salt"
+    ],
+    "quantities": {
+      "peanut butter": 1,
+      "sugar": 0.5,
+      "egg": 1,
+      "salt": 0.125
+    },
+    "units": {
+      "peanut butter": "cup",
+      "sugar": "cup",
+      "egg": "pc",
+      "salt": "tsp"
+    },
+    "servings": 4,
+    "time": 18,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Chewy, rich flourless peanut butter cookies mixed in one bowl in 2 minutes.",
+    "steps": [
+      "Preheat oven to 175°C (350°F) and line a baking tray.",
+      "Stir peanut butter, sugar, egg, and salt together until a thick uniform dough forms.",
+      "Roll into 12 balls, flatten with a fork in a criss-cross pattern, and bake 10–12 minutes."
+    ],
+    "substitutions": {
+      "peanut butter": "Almond butter or sunflower seed butter",
+      "sugar": "Brown sugar or coconut sugar"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Lemon Rice (Chitranna)",
+    "emoji": "🍋",
+    "ingredients": [
+      "rice",
+      "lemon",
+      "turmeric",
+      "cumin",
+      "peanut",
+      "chili",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "rice": 2,
+      "lemon": 1,
+      "turmeric": 0.5,
+      "cumin": 0.5,
+      "peanut": 2,
+      "chili": 1,
+      "oil": 1.5,
+      "salt": 0.75
+    },
+    "units": {
+      "rice": "cups",
+      "lemon": "pc",
+      "turmeric": "tsp",
+      "cumin": "tsp",
+      "peanut": "tbsp",
+      "chili": "pc",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 12,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Bright, tangy golden rice tossed with crunchy roasted peanuts, cumin, and fresh lemon juice.",
+    "steps": [
+      "Heat oil in a pan and roast peanuts until crunchy; add cumin seeds and chopped chili.",
+      "Lower heat, stir in turmeric, salt, and cooked rice; toss gently until coated in golden color.",
+      "Turn off heat, squeeze fresh lemon juice over the rice, toss once more, and serve."
+    ],
+    "substitutions": {
+      "peanut": "Cashews or roasted chickpeas",
+      "lemon": "Lime juice",
+      "cumin": "Mustard seeds"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Creamy Mushroom Toast",
+    "emoji": "🍄",
+    "ingredients": [
+      "mushroom",
+      "bread",
+      "garlic",
+      "butter",
+      "milk",
+      "salt"
+    ],
+    "quantities": {
+      "mushroom": 200,
+      "bread": 2,
+      "garlic": 2,
+      "butter": 1.5,
+      "milk": 0.25,
+      "salt": 0.25
+    },
+    "units": {
+      "mushroom": "g",
+      "bread": "slices",
+      "garlic": "cloves",
+      "butter": "tbsp",
+      "milk": "cup",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 12,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Golden pan-seared mushrooms simmered in a rich garlic-cream glaze over crunchy toast.",
+    "steps": [
+      "Slice mushrooms and saute in butter over medium-high heat until browned and moisture evaporates.",
+      "Add minced garlic and salt; cook 1 minute, then pour in milk and simmer 2 minutes until thick.",
+      "Spoon over crisp toasted bread and serve immediately."
+    ],
+    "substitutions": {
+      "milk": "Cream, sour cream, or a spoonful of cream cheese",
+      "butter": "Olive oil"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Quick Veg Pulao",
+    "emoji": "🥘",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "peas",
+      "onion",
+      "cumin",
+      "turmeric",
+      "oil",
+      "salt",
+      "water"
+    ],
+    "quantities": {
+      "rice": 1,
+      "carrot": 1,
+      "peas": 0.5,
+      "onion": 1,
+      "cumin": 1,
+      "turmeric": 0.25,
+      "oil": 1.5,
+      "salt": 0.75,
+      "water": 2
+    },
+    "units": {
+      "rice": "cup",
+      "carrot": "medium",
+      "peas": "cup",
+      "onion": "medium",
+      "cumin": "tsp",
+      "turmeric": "tsp",
+      "oil": "tbsp",
+      "salt": "tsp",
+      "water": "cups"
+    },
+    "servings": 2,
+    "time": 22,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Fragrant one-pot spiced rice cooked with sweet carrots, green peas, and caramelized onions.",
+    "steps": [
+      "Rinse rice and soak for 10 minutes while dicing onion and carrot.",
+      "Heat oil in a pot, crackle cumin seeds, and saute onion, carrot, and peas for 3 minutes.",
+      "Add drained rice, turmeric, salt, and 2 cups water; bring to a boil, cover, and simmer on low for 12 minutes.",
+      "Rest covered 5 minutes, fluff with a fork, and serve."
+    ],
+    "substitutions": {
+      "peas": "Corn or diced beans",
+      "carrot": "Diced potato or bell pepper"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Egg Drop Soup",
+    "emoji": "🍲",
+    "ingredients": [
+      "egg",
+      "spring onion",
+      "garlic",
+      "soy sauce",
+      "corn",
+      "salt",
+      "water"
+    ],
+    "quantities": {
+      "egg": 2,
+      "spring onion": 2,
+      "garlic": 2,
+      "soy sauce": 1,
+      "corn": 0.33,
+      "salt": 0.5,
+      "water": 3
+    },
+    "units": {
+      "egg": "pcs",
+      "spring onion": "stalks",
+      "garlic": "cloves",
+      "soy sauce": "tbsp",
+      "corn": "cup",
+      "salt": "tsp",
+      "water": "cups"
+    },
+    "servings": 2,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Silky 10-minute comfort broth swirled with delicate golden egg ribbons and sweetcorn.",
+    "steps": [
+      "Bring water, smashed garlic, soy sauce, sweetcorn, and salt to a gentle boil.",
+      "Lower heat to a simmer and slowly drizzle beaten eggs in a thin stream while stirring gently.",
+      "Turn off heat, top with sliced spring onions, and serve hot."
+    ],
+    "substitutions": {
+      "corn": "Chopped spinach or diced tofu",
+      "spring onion": "Fresh coriander"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Caprese Melted Toast",
+    "emoji": "🍅",
+    "ingredients": [
+      "bread",
+      "tomato",
+      "cheese",
+      "garlic",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "bread": 2,
+      "tomato": 1,
+      "cheese": 0.5,
+      "garlic": 1,
+      "oil": 1,
+      "salt": 0.25
+    },
+    "units": {
+      "bread": "slices",
+      "tomato": "medium",
+      "cheese": "cup",
+      "garlic": "clove",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 1,
+    "time": 8,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Crisp open-faced garlic toast layered with juicy tomato slices and bubbly melted cheese.",
+    "steps": [
+      "Brush bread with oil and toast lightly in a skillet; rub with a cut clove of garlic.",
+      "Top with sliced tomato, a pinch of salt, and shredded cheese.",
+      "Cover the skillet for 2–3 minutes on low heat until the cheese melts completely."
+    ],
+    "substitutions": {
+      "cheese": "Mozzarella, cheddar, or paneer slices",
+      "bread": "English muffin or bagel"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Spicy Garlic Potato Wedges",
+    "emoji": "🍟",
+    "ingredients": [
+      "potato",
+      "garlic",
+      "chili",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "potato": 3,
+      "garlic": 3,
+      "chili": 1,
+      "oil": 2,
+      "salt": 0.75
+    },
+    "units": {
+      "potato": "medium",
+      "garlic": "cloves",
+      "chili": "pc",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 25,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Crispy oven-baked or skillet-roasted potato wedges tossed in aromatic garlic-chili oil.",
+    "steps": [
+      "Cut washed potatoes into thick wedges and pat dry.",
+      "Toss with oil, minced garlic, finely chopped chili, and salt.",
+      "Roast at 210°C (410°F) for 22 minutes (or pan-fry covered then uncovered) until crisp and golden."
+    ],
+    "substitutions": {
+      "potato": "Sweet potato or carrot batons",
+      "chili": "Paprika or black pepper"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Yogurt Berry & Oat Parfait",
+    "emoji": "🍨",
+    "ingredients": [
+      "yogurt",
+      "oats",
+      "banana",
+      "honey"
+    ],
+    "quantities": {
+      "yogurt": 1,
+      "oats": 0.5,
+      "banana": 1,
+      "honey": 1
+    },
+    "units": {
+      "yogurt": "cup",
+      "oats": "cup",
+      "banana": 1,
+      "honey": "tbsp"
+    },
+    "servings": 1,
+    "time": 5,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Zero-cook creamy breakfast or late-night study bowl layered with oats, sliced banana, and honey.",
+    "steps": [
+      "Spoon half the yogurt into a bowl or jar and layer with oats and sliced banana.",
+      "Repeat layers and drizzle honey over the top.",
+      "Enjoy immediately for crunch or chill 15 minutes for soft overnight-style oats."
+    ],
+    "substitutions": {
+      "honey": "Sugar, maple syrup, or jam",
+      "banana": "Apple, mango, or berries"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Egg & Cheese Breakfast Wrap",
+    "emoji": "🌯",
+    "ingredients": [
+      "tortilla",
+      "egg",
+      "cheese",
+      "spinach",
+      "butter",
+      "salt"
+    ],
+    "quantities": {
+      "tortilla": 2,
+      "egg": 3,
+      "cheese": 0.5,
+      "spinach": 1,
+      "butter": 1,
+      "salt": 0.25
+    },
+    "units": {
+      "tortilla": "pcs",
+      "egg": "pcs",
+      "cheese": "cup",
+      "spinach": "cup",
+      "butter": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Warm griddled wrap stuffed with fluffy scrambled eggs, wilted spinach, and melted cheese.",
+    "steps": [
+      "Scramble beaten eggs with salt and spinach in butter until soft and set.",
+      "Warm tortillas, layer eggs and cheese in the center, and roll tightly.",
+      "Sear seam-side down in the skillet for 1 minute to seal and crisp."
+    ],
+    "substitutions": {
+      "tortilla": "Chapati or pita bread",
+      "spinach": "Diced tomato or bell pepper"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Tomato Rice (Thakkali Sadam)",
+    "emoji": "🍅",
+    "ingredients": [
+      "rice",
+      "tomato",
+      "onion",
+      "garlic",
+      "cumin",
+      "turmeric",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "rice": 2,
+      "tomato": 2,
+      "onion": 1,
+      "garlic": 3,
+      "cumin": 1,
+      "turmeric": 0.5,
+      "oil": 1.5,
+      "salt": 0.75
+    },
+    "units": {
+      "rice": "cups",
+      "tomato": "medium",
+      "onion": "medium",
+      "garlic": "cloves",
+      "cumin": "tsp",
+      "turmeric": "tsp",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Tangy, spiced South Indian tomato-onion rice made in minutes with leftover cooked rice.",
+    "steps": [
+      "Heat oil, crackle cumin seeds, and saute sliced onion and minced garlic until golden.",
+      "Add chopped tomatoes, turmeric, and salt; cook 5 minutes until jammy.",
+      "Fold in cooked rice and toss over medium heat for 3 minutes until well combined."
+    ],
+    "substitutions": {
+      "tomato": "Canned crushed tomatoes",
+      "cumin": "Mustard seeds or garam masala"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Cabbage & Carrot Stir-Fry",
+    "emoji": "🥬",
+    "ingredients": [
+      "cabbage",
+      "carrot",
+      "garlic",
+      "soy sauce",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "cabbage": 2,
+      "carrot": 1,
+      "garlic": 2,
+      "soy sauce": 1,
+      "oil": 1,
+      "salt": 0.25
+    },
+    "units": {
+      "cabbage": "cups",
+      "carrot": "medium",
+      "garlic": "cloves",
+      "soy sauce": "tbsp",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Crisp-tender shredded cabbage and carrots flash-seared with garlic and savory soy glaze.",
+    "steps": [
+      "Thinly shred cabbage and julienne carrot.",
+      "Heat oil over high heat, sizzle minced garlic for 20 seconds, then toss in vegetables.",
+      "Stir-fry 4–5 minutes until crisp-tender, splash with soy sauce and salt, and serve."
+    ],
+    "substitutions": {
+      "soy sauce": "Lemon juice + salt",
+      "carrot": "Bell pepper or onion"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Cheesy Garlic Bread",
+    "emoji": "🥖",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "garlic",
+      "butter",
+      "salt"
+    ],
+    "quantities": {
+      "bread": 4,
+      "cheese": 0.75,
+      "garlic": 3,
+      "butter": 2,
+      "salt": 0.125
+    },
+    "units": {
+      "bread": "slices",
+      "cheese": "cup",
+      "garlic": "cloves",
+      "butter": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 8,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Golden, buttery garlic toast blanketed in bubbly melted cheese.",
+    "steps": [
+      "Mix softened butter with finely minced garlic and a pinch of salt.",
+      "Spread garlic butter onto bread slices and top generously with shredded cheese.",
+      "Toast in a covered skillet on low heat for 4 minutes (or bake at 200°C for 6 minutes) until melted."
+    ],
+    "substitutions": {
+      "butter": "Olive oil",
+      "garlic": "1/2 tsp garlic powder"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Bean & Tomato Chili Bowl",
+    "emoji": "🫘",
+    "ingredients": [
+      "beans",
+      "tomato",
+      "onion",
+      "garlic",
+      "cumin",
+      "chili",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "beans": 1.5,
+      "tomato": 2,
+      "onion": 1,
+      "garlic": 2,
+      "cumin": 1,
+      "chili": 1,
+      "oil": 1,
+      "salt": 0.75
+    },
+    "units": {
+      "beans": "cups",
+      "tomato": "medium",
+      "onion": "medium",
+      "garlic": "cloves",
+      "cumin": "tsp",
+      "chili": "pc",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 20,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Hearty 20-minute stovetop bean chili simmered with tomatoes, cumin, and gentle heat.",
+    "steps": [
+      "Saute diced onion, garlic, and chopped chili in oil for 4 minutes.",
+      "Add cumin, diced tomatoes, drained beans, salt, and 1/2 cup water.",
+      "Simmer 12 minutes until thick and rich; serve over rice or with toast."
+    ],
+    "substitutions": {
+      "beans": "Chickpeas or lentils",
+      "chili": "Chili powder or paprika"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Sweet Banana Fry (Pazham Pori Style)",
+    "emoji": "🍌",
+    "ingredients": [
+      "banana",
+      "butter",
+      "sugar",
+      "salt"
+    ],
+    "quantities": {
+      "banana": 2,
+      "butter": 1,
+      "sugar": 1,
+      "salt": 0.125
+    },
+    "units": {
+      "banana": "medium",
+      "butter": "tbsp",
+      "sugar": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 7,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Caramelized pan-seared banana slices with golden crisp edges — ready in 7 minutes.",
+    "steps": [
+      "Slice ripe-but-firm bananas lengthwise or into thick coins.",
+      "Melt butter in a nonstick pan, sprinkle sugar and a tiny pinch of salt, and lay bananas flat.",
+      "Sear 2 minutes per side until deeply caramelized and golden."
+    ],
+    "substitutions": {
+      "butter": "Coconut oil or ghee",
+      "sugar": "Honey or jaggery"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Egg & Potato Hash",
+    "emoji": "🍳",
+    "ingredients": [
+      "potato",
+      "egg",
+      "onion",
+      "bell pepper",
+      "oil",
+      "salt"
+    ],
+    "quantities": {
+      "potato": 2,
+      "egg": 2,
+      "onion": 0.5,
+      "bell pepper": 0.5,
+      "oil": 1.5,
+      "salt": 0.5
+    },
+    "units": {
+      "potato": "medium",
+      "egg": "pcs",
+      "onion": "medium",
+      "bell pepper": "medium",
+      "oil": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 20,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "Crispy skillet-fried diced potatoes, onions, and peppers topped with sunny-side eggs.",
+    "steps": [
+      "Dice potatoes into small 1cm cubes and fry in oil with salt for 10 minutes until golden.",
+      "Add diced onion and bell pepper; saute 4 minutes until tender.",
+      "Make two wells, crack in the eggs, cover, and cook 3–4 minutes until whites set."
+    ],
+    "substitutions": {
+      "bell pepper": "Tomato or spinach",
+      "egg": "Grated cheese melted on top"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cucumber & Yogurt Raita Bowl",
+    "emoji": "🥒",
+    "ingredients": [
+      "yogurt",
+      "cucumber",
+      "cumin",
+      "coriander",
+      "salt"
+    ],
+    "quantities": {
+      "yogurt": 1.5,
+      "cucumber": 1,
+      "cumin": 0.5,
+      "coriander": 2,
+      "salt": 0.5
+    },
+    "units": {
+      "yogurt": "cups",
+      "cucumber": "medium",
+      "cumin": "tsp",
+      "coriander": "tbsp",
+      "salt": "tsp"
+    },
+    "servings": 2,
+    "time": 5,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Refreshing chilled cucumber-yogurt side or light dip seasoned with roasted cumin and herbs.",
+    "steps": [
+      "Whisk yogurt until smooth and season with salt and cumin.",
+      "Fold in grated or finely diced cucumber and chopped coriander.",
+      "Serve chilled alongside any rice dish, dal, or spicy flatbread."
+    ],
+    "substitutions": {
+      "cucumber": "Grated carrot or diced tomato",
+      "coriander": "Mint leaves or spring onion"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Simple Marinara Pasta",
+    "emoji": "🍝",
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "garlic",
+      "onion",
+      "oil",
+      "salt",
+      "water"
+    ],
+    "quantities": {
+      "pasta": 200,
+      "tomato": 3,
+      "garlic": 3,
+      "onion": 0.5,
+      "oil": 1.5,
+      "salt": 0.75,
+      "water": 1000
+    },
+    "units": {
+      "pasta": "g",
+      "tomato": "medium",
+      "garlic": "cloves",
+      "onion": "medium",
+      "oil": "tbsp",
+      "salt": "tsp",
+      "water": "ml"
+    },
+    "servings": 2,
+    "time": 20,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "Classic homestyle pasta tossed in a fresh slow-simmered garlic-tomato marinara sauce.",
+    "steps": [
+      "Boil pasta in salted water until al dente, saving 1/4 cup pasta water.",
+      "Saute finely diced onion and garlic in oil until fragrant, then add chopped tomatoes and salt.",
+      "Simmer 10 minutes until saucy, toss in pasta with reserved cooking water, and serve."
+    ],
+    "substitutions": {
+      "tomato": "Canned crushed tomatoes",
+      "onion": "Extra garlic or carrot"
+    }
+  }
+]
